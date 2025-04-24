@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Lucas Araujo
 
-**`JR fullstack developer`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo Lucas, tenho 28 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado pela área da tecnologia e estou sempre em busca de aprender e evoluir dentro da minha profissão. Tenho um grande interesse pelo desenvolvimento web, que é onde mais me dedico atualmente, mas também estudo, mesmo que de forma mais básica, conceitos de desenvolvimento de software no geral. Gosto de explorar novas ferramentas, entender boas práticas e me desafiar com projetos que me façam crescer como desenvolvedor.
 
