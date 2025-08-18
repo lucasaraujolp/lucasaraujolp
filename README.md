@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Lucas, tenho 28 anos e sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonado pela área da tecnologia e estou sempre em busca de aprender e evoluir dentro da minha profissão. Tenho um grande interesse pelo desenvolvimento web, que é onde mais me dedico atualmente, mas também estudo, mesmo que de forma mais básica, conceitos de desenvolvimento de software no geral. Gosto de explorar novas ferramentas, entender boas práticas e me desafiar com projetos que me façam crescer como desenvolvedor.
+Fullstack Developer with 1 year of experience in software development and over 5 years working as an IT Analyst, with a solid background in infrastructure, networking, and technical support. Graduated in Systems Analysis and Development, and recently accepted into INDT’s selective Fullstack training program, covering technologies such as HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Express, REST APIs, Docker, CI/CD, and DevOps practices.
+
+I have hands-on experience developing web applications, integrating APIs, and implementing solutions that combine performance, security, and clean code practices. I’m constantly improving my technical skills and aiming to contribute to impactful projects, working collaboratively and result-oriented.
+
+Current stack: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Express, Docker, CI/CD
 
 ---
 
