@@ -2,11 +2,13 @@
 
 **`Desenvolvedor Fullstack`**
 
-Fullstack Developer with 1 year of experience in software development and over 5 years working as an IT Analyst, with a solid background in infrastructure, networking, and technical support. Graduated in Systems Analysis and Development, and recently accepted into INDT’s selective Fullstack training program, covering technologies such as HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Express, REST APIs, Docker, CI/CD, and DevOps practices.
+Desenvolvedor Fullstack com 1 ano de experiência prática em desenvolvimento de software e mais de 5 anos atuando como Analista de TI, com forte conhecimento em infraestrutura, redes e suporte técnico. Sou formado em Análise e Desenvolvimento de Sistemas e recentemente aprovado no programa seletivo de formação Fullstack do INDT, com foco em tecnologias modernas e boas práticas de engenharia.
 
-I have hands-on experience developing web applications, integrating APIs, and implementing solutions that combine performance, security, and clean code practices. I’m constantly improving my technical skills and aiming to contribute to impactful projects, working collaboratively and result-oriented.
+Tenho experiência no desenvolvimento de aplicações web completas, criação e integração de APIs REST, containerização com Docker, e automação de fluxos usando práticas de CI/CD e conceitos DevOps. Possuo também conhecimento básico em metodologias ágeis como Kanban e Scrum, e trabalho com foco em performance, segurança, clean code e colaboração em equipe.
 
-Current stack: HTML, CSS, JavaScript, TypeScript, Angular, Node.js, Express, Docker, CI/CD
+Stack atual: TypeScript, Angular, Node.js, Express, Docker, CI/CD, Tailwind CSS, REST APIs.
+
+Estou em constante evolução técnica e busco contribuir com projetos de impacto, trabalhando de forma colaborativa e orientada a resultados.
 
 ---
 
