@@ -4,7 +4,7 @@
 
 ### Fullstack Developer | Desenvolvedor Fullstack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=ASP.NET+%7C+.NET+Framework+%7C+Angular+%7C+Node.js;TypeScript+%7C+Express+%7C+APIs+REST+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Soluções+Fullstack+e+Integrações" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=9EE5D0&center=true&vCenter=true&width=850&lines=ASP.NET+%7C+.NET+Framework+%7C+Angular+%7C+Node.js;TypeScript+%7C+Express+%7C+APIs+REST+%7C+PostgreSQL;Docker+%7C+CI%2FCD+%7C+Soluções+Fullstack+e+Integrações" alt="ASP.NET, .NET Framework, Angular, Node.js, TypeScript, Express, APIs REST, PostgreSQL, Docker, CI/CD e soluções fullstack" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif"/>
+<img align="right" width="176" src="./lucas-pixel-animado.gif" alt="Lucas Araújo programando em um computador retrô, em pixel art"/>
 
 </div>
 
@@ -94,4 +94,3 @@ Tenho vivência tanto no **front-end** quanto no **back-end**, trabalhando na co
 </div>
 
 ---
-
